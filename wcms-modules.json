@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "plugins": {
+        "wcms-editor": {
+            "name": "Modified Summernote Editor",
+            "repo": "https://github.com/Phemisters/wcms-editor/tree/main",
+            "zip": "https://github.com/Phemisters/wcms-editor/archive/main.zip",
+            "summary": "Adds an WYSIWYG editor to all content editable fields.",
+            "version": "1.0.11",
+            "image": "https://raw.githubusercontent.com/Phemisters/wcms-editor/main/preview.jpg"
+        }
+    }
+}
